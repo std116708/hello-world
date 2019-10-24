@@ -1,4 +1,4 @@
-'''javascript
+''' javascript
 
 function formatDate(date) {
   return date.toLocaleDateString();
