@@ -1,4 +1,4 @@
-''' javascript
+```javascript
 
 function formatDate(date) {
   return date.toLocaleDateString();
@@ -52,4 +52,4 @@ ReactDOM.render(
   document.getElementById('root')
 );
 
-'''
+```
